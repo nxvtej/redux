@@ -1,0 +1,6 @@
+1. got the redux tool kit 
+2. create store.js (where everthing will be stored)
+3. inside that need to create reducers  (will be talking to the store)
+4. created another folder for features
+5. another folder for specifix funciton like todo
+6. created a slice where the initials will be present like the defaults
